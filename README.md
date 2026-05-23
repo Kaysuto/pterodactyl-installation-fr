@@ -1,7 +1,7 @@
 
 # 🦖 Installation de Pterodactyl en français
 
-[![Discord](https://img.shields.io/discord/1027968386640117770?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4fk7jZvKKw)
+[![Discord](https://img.shields.io/discord/1352228798585638983?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4fk7jZvKKw)
 
 Ce guide résume en français les points importants de la documentation officielle de **Pterodactyl**, un panel open-source de gestion de serveurs de jeux. Pterodactyl permet d'administrer des serveurs comme Minecraft, Rust, Terraria, Teamspeak, Garry's Mod, ARK et beaucoup d'autres grâce à des conteneurs Docker isolés.
 
